@@ -1,0 +1,6 @@
+{
+  "name": "RSSerpent",
+  "description": "🐍 This snake helps you reconnect the Web, with RSS feeds!",
+  "repository": "https://github.com/RSSerpent/rsserpent-deploy-heroku",
+  "keywords": ["python", "rss"]
+}
