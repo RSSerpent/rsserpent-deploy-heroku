@@ -3,7 +3,7 @@ appdirs==1.4.4
 arrow==1.2.3
 certifi==2023.7.22
 charset-normalizer==3.2.0
-click==8.1.6
+click==8.1.7
 cssselect==1.2.0
 dnspython==2.4.2
 email-validator==2.0.0.post2
